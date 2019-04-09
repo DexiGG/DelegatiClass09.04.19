@@ -1,0 +1,7 @@
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\bin\Debug\Delegati.exe.config
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\bin\Debug\Delegati.exe
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\bin\Debug\Delegati.pdb
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\obj\Debug\Delegati.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\obj\Debug\Delegati.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\obj\Debug\Delegati.exe
+c:\users\джабашевн.corp\source\repos\Delegati\Delegati\obj\Debug\Delegati.pdb
